@@ -87,6 +87,10 @@
     {
       "name": "iptv-org 香港频道",
       "url": "https://iptv-org.github.io/iptv/countries/hk.m3u"
+    },
+    {
+      "name": "best-fan 全国频道",
+      "url": "https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8"
     }
   ]
 }
