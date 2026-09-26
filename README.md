@@ -14,3 +14,7 @@
 直接编辑对应的 JSON 文件提交即可，订阅端在「源管理 → 数据源订阅」点 **⟳** 手动同步；通过 `DEFAULT_SUBSCRIPTIONS` 预置的订阅每 24 小时自动刷新。
 
 字段格式见 [LibreTV README · 订阅格式](https://github.com/librespark/LibreTV#订阅格式libretv-sourcelist-json)。
+
+# 其他参考
+
++ https://github.com/mylazily/ziyuanzhan
