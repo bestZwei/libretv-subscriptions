@@ -1,0 +1,92 @@
+{
+  "name": "LibreTV 可用合集",
+  "version": 2,
+  "sources": [
+    {
+      "name": "非凡影视",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"
+    },
+    {
+      "name": "如意资源",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "360资源站",
+      "url": "https://360zy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "光速资源站",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "豪华资源站",
+      "url": "https://haohuazy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "无尽资源站",
+      "url": "https://api.wujinapi.me/api.php/provide/vod/"
+    },
+    {
+      "name": "最大资源站",
+      "url": "http://zuidazy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "极速资源站",
+      "url": "https://jszyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod"
+    },
+    {
+      "name": "虎牙资源站",
+      "url": "https://huyazy.net/api.php/provide/vod/"
+    },
+    {
+      "name": "豆瓣资源站",
+      "url": "https://dbzy.tv/api.php/provide/vod/"
+    },
+    {
+      "name": "速播资源站",
+      "url": "https://subocj.com/api.php/provide/vod/"
+    },
+    {
+      "name": "速播资源站2",
+      "url": "https://www.suboziyuan.net/api.php/provide/vod/"
+    },
+    {
+      "name": "金鹰资源站",
+      "url": "https://jyzyapi.com/provide/vod/"
+    },
+    {
+      "name": "魔都资源站",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/"
+    }
+  ],
+  "liveSources": [
+    {
+      "name": "iptv-org 全球体育",
+      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+    },
+    {
+      "name": "iptv-org 全球新闻",
+      "url": "https://iptv-org.github.io/iptv/categories/news.m3u"
+    },
+    {
+      "name": "iptv-org 全球电影",
+      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+    },
+    {
+      "name": "Free-TV 优质精选",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+    },
+    {
+      "name": "iptv-org 香港频道",
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u"
+    }
+  ]
+}

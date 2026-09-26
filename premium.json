@@ -1,0 +1,54 @@
+{
+  "name": "LibreTV 优质合集",
+  "version": 2,
+  "sources": [
+    {
+      "name": "非凡影视",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
+      "detail": "http://ffzy5.tv",
+      "isAdult": false
+    },
+    {
+      "name": "如意资源",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    }
+  ],
+  "liveSources": [
+    {
+      "name": "YueChan IPTV (央视/卫视精简源)",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "范明明 CCTV/卫视",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u",
+      "epg": "https://live.fanmingming.com/e.xml.gz"
+    },
+    {
+      "name": "iptv-org 全球体育",
+      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+    },
+    {
+      "name": "iptv-org 全球新闻",
+      "url": "https://iptv-org.github.io/iptv/categories/news.m3u"
+    },
+    {
+      "name": "iptv-org 全球电影",
+      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+    },
+    {
+      "name": "Free-TV 优质精选",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+    },
+    {
+      "name": "iptv-org 香港频道",
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u"
+    }
+  ]
+}
