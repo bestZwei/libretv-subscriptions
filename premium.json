@@ -17,6 +17,11 @@
       "name": "暴风资源",
       "url": "https://bfzyapi.com/api.php/provide/vod",
       "isAdult": false
+    },
+    {
+      "name": "电影天堂资源",
+      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8",
+      "isAdult": false
     }
   ],
   "liveSources": [
