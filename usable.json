@@ -65,6 +65,10 @@
     {
       "name": "魔都资源站",
       "url": "https://www.mdzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "量子资源",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
     }
   ],
   "liveSources": [
